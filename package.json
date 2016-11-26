@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-bootstrap-css",
-  "version": "0.1.0-beta.1",
+  "version": "0.1.0",
   "description": "Lightweight addon that only adds bootstrap.css",
   "directories": {
     "doc": "doc",

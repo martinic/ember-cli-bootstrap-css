@@ -26,6 +26,7 @@ Tom Dale's blog example using Ember CLI and ember-cli-bootstrap-css: [broerse/em
 And of course thanks to all our wonderful contributors, [here](https://github.com/martinic/ember-cli-bootstrap-css/graphs/contributors)!
 
 ## Changelog
+* **0.2.0** - Upgrade to ember-cli 2.18.2
 * **0.1.1** - Update readme for ember-cli-bootstrap-fonts use
 * **0.1.0** - Release v0.1.0
 * **0.1.0-beta.1** - First Beta release
